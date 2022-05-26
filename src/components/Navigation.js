@@ -14,7 +14,7 @@ const Navigation = () => {
                             <Nav.Link href="/nuevo">Nuevo Paquete</Nav.Link>
                         </Nav>
                         <Nav>
-                            <Nav.Link href="#deets" target="_blank">GitHub.front-end</Nav.Link>
+                            <Nav.Link href="https://github.com/AlejoWally666/reto-front-end" target="_blank">GitHub.front-end</Nav.Link>
                             <Nav.Link href="https://github.com/AlejoWally666/reto-back-end" target="_blank">GitHub.back-end</Nav.Link>
                         </Nav>
                     </Navbar.Collapse>
